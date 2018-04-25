@@ -1,6 +1,5 @@
 public class Prubea{
-  public stativ void main (String [] args){
-  
+  public static void main (String [] args){
   
   }
 
